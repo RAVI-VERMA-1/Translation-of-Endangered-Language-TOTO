@@ -1,0 +1,43 @@
+Hello	Akwama
+Goodbye	Adikha
+I am fine	Kuma aibaha
+Thank you	Kuma nuwna
+You're welcome	Nuhnayou
+Please	Akwama
+Excuse me	Akwama
+I don't understand	Ka hamutala
+Yes	Aha
+No	Ka
+What is your name?	Kuma hanta?
+My name is rahul	Kuma noma rahul
+Nice to meet you	Kuma noko hamutala
+Where is the bathroom?	AiMpa hanta yuMa?
+Where do you live?	Nati hanta yuMa?
+Why are you going?	Nati hamS'a adaMa?
+I love you	KuM akoyM tS'aM.
+I'm happy	KuM aiba nyo.
+I'm sad	KuM aiki nyo.
+I'm hungry	KuM iyaM nyo.
+I'm thirsty	KuM ipa nyo.
+I'm tired	KuM aibita nyo.
+Go to your house	Nako S'eta hatu.
+What is this?	Yiya hanta?
+I'm going to your house.	AkoiM S'eta hatu.
+Don't go bed so soon.	NeSeso mejiM.
+I don't work.	Ka kam mojjana.
+I don't have the work.	Ka kampako mato.
+We are not related.	Ka maM kaimi.
+The bull is grazing.	Dambe pika yacoina.
+Bulls are grazing.	Dambe pikabi yacoina.
+Child's hand.	Apeko kui.
+The children's hands are small.	Apebiko kuibi apecimi.
+The children come to garden.	Apebi bagainta woMna.
+The children are playing.	Apebi neSeso mejiM.
+The children are eating.	Apebi iyaM nyo.
+The children are drinking water.	Apebi ipa nyo.
+The children are tired.	Apebi aibita nyo.
+The children are happy.	Apebi aiba nyo.
+The children are sad.	Apebi aiki nyo.
+The children are hungry.	Apebi iyaM nyo.
+The children are thirsty.	Apebi ipa nyo.
+The children are tired.	Apebi aibita nyo.
